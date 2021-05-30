@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CodingMarius
+- 👀 I’m interested in Computer Science 💻
+- 🌱 I’m currently learning Assembler
+- 📫 Reach me via E-Mail
