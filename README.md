@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CodingMarius
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Assembler
-- 📫 Reach me via E-Mail
+- 📫 Reach me via E-Mail: business@codingmarius.de
